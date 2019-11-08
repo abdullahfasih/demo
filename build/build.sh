@@ -1,1 +1,1 @@
-echo 'building'
+echo 'setting'
